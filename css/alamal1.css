@@ -1,0 +1,238 @@
+body{
+    margin: 0;
+    padding:0;
+    background-color:rgb(136, 177, 55);
+}
+
+
+
+.tobhead{ 
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color:rgb(122, 120, 120);
+    
+    
+}
+
+
+
+
+
+.tob p{
+     padding: 20px;
+    display: inline-block;
+    text-decoration-line: underline;
+    font-weight:1000;
+    font-size:larger;}
+#wor{   
+    display: inline-block;
+    height: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    transition: 2s;
+}
+
+#wor:hover{
+    font-size: x-large;
+    /*margin-bottom: 0px;
+    padding-bottom: 0px;*/
+}
+
+
+
+
+
+.sacendbart{
+    height: 110px;
+
+    /*               whay border hidden
+    border:30px;
+    border-color:rgb(14, 13, 13);
+    border-style:initial;*/
+    background-color: rgb(25, 138, 100);
+
+}
+
+/*left bart*/
+
+.prand{
+   width: 400px;
+    float: left;
+   /* padding: 30px;*/
+}
+
+.prand i{
+    font-size: xxx-large;
+    color: rgba(255, 68, 0, 0.795);
+    font-weight: 1000px;
+
+}
+
+.prand p{
+    
+    display: inline;
+    font-size: xx-large;
+    color: rgba(255, 68, 0, 0.795);
+    font-weight: 1000px;
+    
+}
+
+
+
+/*center bart*/
+.searchbox{
+    text-align: center;
+  width: 400px;
+  padding: 30px;
+  float: left;
+}
+
+.searchbox i{
+   /* font-size: medium;*/
+    color: rgba(255, 68, 0, 0.795);
+    font-size: xx-large;
+}
+
+.searchbox textarea{
+width: 300px;
+
+}
+
+
+
+
+/*right bart*/
+.helptool{
+    
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    /*                                    why not work
+    align-content: center;*/
+    justify-content: space-around;
+    width: 400px;
+    height: 100px;
+    float: left;
+    
+    
+    /*                                   why border hidden
+    border: 30px;
+    border-color: black;  */
+    
+}
+
+
+
+
+.signin i{font-size:xx-large; }
+.messages {font-size: xx-large;}
+.orders i{font-size: xx-large;}
+.car i{font-size: xx-large;}
+
+
+
+.thirdbart{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: x-large;
+}
+
+
+.thirdbart p{
+    display: inline;
+}
+
+
+
+
+
+
+
+.artecal{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height:auto ;
+}
+
+.amal{
+     display: flex;
+     height: auto;
+     width: 100vw;
+     /*justify-content: center;
+     justify-items: center;*/
+}
+   
+.sara{
+    display: flex;
+    height: auto;
+    width: 100vw;
+   /* justify-content: center;
+    justify-items: center;*/
+}
+
+.shorouk{
+    display: flex;
+    height: auto;
+    width: 100vw;
+   /* justify-content: center;
+    justify-items: center;*/
+}
+  
+.yousry{
+   display: flex;
+   height: auto;
+   width: 100vw;
+  /* justify-content: center;
+   justify-items: center;*/
+}
+
+.ig{
+    width: 33.33vw;
+    margin: 5px;
+    height: auto;
+    transition:width 2s;
+    
+}
+.ig :hover{
+    border-radius: 20px;
+}
+
+.ig img {
+    max-width: 33.33vw;
+    transition:width 2s;
+    width: 33.33vw;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+.pay{
+    height: 200px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(216, 226, 120);
+}
+
+
+.pay h2{
+    text-align: center;
+}
+
+
+
+.footer{
+    width: 100vw;
+    height: 300px;
+    background-color: #317a22;
+    font-size: x-large;
+}
+
+
+.pa{
+    margin: 20px;
+
+}

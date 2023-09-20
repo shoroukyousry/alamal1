@@ -1,0 +1,29 @@
+.sh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    background-color:olivedrab;
+}
+.a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:xx-large;
+    background: #ce0d0d;
+    width: 30vw;
+    height: 200px;
+}
+
+.igg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    min-height: 200px;
+}
+.ig img{
+   min-width: 70vw;
+   height:300px;
+}
